@@ -1,0 +1,16 @@
+  BUS d.o.o. - Poslovnica Aspira
+ Domovinskog rata 65, 21000 Split
+----------------------------------
+Datum racuna: 22.02.2020. 11:33:00
+Broj racuna: 1/2020
+
+     POTVRDA O CIJENI KARTE
+----------------------------------
+Vrsta karte:               Zona: 1
+----------------------------------
+Pojedinacna karta za jedno putovanje
+Cijena karte: 11,00 KN
+Kolicina: 11 kom
+
+UKUPNO ZA NAPLATU: 121,00 KN
+Nacin placanja: Gotovina

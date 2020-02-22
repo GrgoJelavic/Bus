@@ -1,0 +1,7 @@
+C:\Users\Grgo Jelavic\source\repos\Bus\Bus\bin\Debug\Bus.exe.config
+C:\Users\Grgo Jelavic\source\repos\Bus\Bus\bin\Debug\Bus.exe
+C:\Users\Grgo Jelavic\source\repos\Bus\Bus\bin\Debug\Bus.pdb
+C:\Users\Grgo Jelavic\source\repos\Bus\Bus\obj\Debug\Bus.csprojAssemblyReference.cache
+C:\Users\Grgo Jelavic\source\repos\Bus\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
+C:\Users\Grgo Jelavic\source\repos\Bus\Bus\obj\Debug\Bus.exe
+C:\Users\Grgo Jelavic\source\repos\Bus\Bus\obj\Debug\Bus.pdb

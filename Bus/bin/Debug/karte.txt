@@ -1,0 +1,24 @@
+1-Pojedinacna karta za jedno putovanje-11
+2-Pojedinacna karta za jedno putovanje-13
+3-Pojedinacna karta za jedno putovanje-17
+4-Pojedinacna karta za jedno putovanje-21
+1-Pojedinacna karta za dva putovanja-18
+2-Pojedinacna karta za dva putovanja-22
+3-Pojedinacna karta za dva putovanja-27
+4-Pojedinacna karta za dva putovanja-33
+1-Karta za djecu (od 6 do 10 godina)-5
+2-Karta za djecu (od 6 do 12 godina)-5
+3-Karta za djecu (od 6 do 12 godina)-5
+4-Karta za djecu (od 6 do 12 godina)-5
+1-Mjesecna pokazna karta za gradjane-290
+2-Mjesecna pokazna karta za gradjane-380
+3-Mjesecna pokazna karta za gradjane-460
+4-Mjesecna pokazna karta za gradjane-570
+1-Mjesecna pokazna karta za ucenike i studente-130
+2-Mjesecna pokazna karta za ucenike i studente-190
+3-Mjesecna pokazna karta za ucenike i studente-230
+4-Mjesecna pokazna karta za ucenike i studente-265
+1-Mjesecna pokazna karta za umirovljenike i nezaposlene-143
+2-Mjesecna pokazna karta za umirovljenike i nezaposlene-200
+3-Mjesecna pokazna karta za umirovljenike i nezaposlene-240
+4-Mjesecna pokazna karta za umirovljenike i nezaposlene-280
